@@ -1,0 +1,12 @@
+{
+  "reportingServiceReference" : "REP234",
+  "financialLedgerServiceReference" : "FLSR234",
+  "ledgerReportType" : "general",
+  "reportingPeriod" : {
+    "fromDate" : "09-01-2018 07:30:00 EST",
+    "toDate" : "09-02-2018 19:30:00 EST"
+  },
+  "subledgerReference" : "SR1234",
+  "report" : {},
+  "reportingResult" : "success"
+}

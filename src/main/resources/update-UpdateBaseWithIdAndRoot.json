@@ -1,0 +1,8 @@
+{
+  "ledgerUpdatePurpose" : "current account update",
+  "subledgerReference" : "SR1234",
+  "updateReference" : "U2394",
+  "ledgerUpdateEmployeeReference" : "ER123",
+  "ledgerUpdateResult" : "successful",
+  "ledgerUpdateDescription" : "Financial log - current account update"
+}

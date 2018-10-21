@@ -1,0 +1,9 @@
+{
+  "subledgerType" : "accounts receivable",
+  "productInstanceReference" : "PI89374",
+  "subledgerReference" : "SR1234",
+  "chartOfAccountBookingRules" : {},
+  "businessUnitReference" : "BU89237",
+  "baseCurrency" : "USD",
+  "status" : "active"
+}
